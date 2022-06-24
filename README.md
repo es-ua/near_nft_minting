@@ -1,4 +1,4 @@
-near-blank-project
+near-NFT-MINTING project
 ==================
 
 This [React] app was initialized with [create-near-app]
